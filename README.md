@@ -1,8 +1,7 @@
-- 👋  Hi, I’m @gongora92. Aguascalientes, Mexico 
-- 👀  I’m interested in new technologies, web development, web performance and any interesting topic
-- 🌱  I’m currently learning mobile development
-- 💞️  I’m looking to collaborate on open source projects (I've never done it, but I would love to)
-- 📫  How to reach me alesx.rdz@gmail.com
+🤓 Full Stack Software Engineer.
+💡 Currently studying to master Python.
+🙌 Looking to collaborate on open source projects.
+📫 How to reach me alesx.rdz@gmail.com
 
 <!---
 gongora92/gongora92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
