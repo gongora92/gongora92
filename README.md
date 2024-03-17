@@ -1,5 +1,5 @@
 - 🤓 Full Stack Software Engineer.
-- 💡 Currently studying to master Python.
+- 💡 Learning AWS
 - 🙌 Looking to collaborate on open source projects.
 - 📫 How to reach me alesx.rdz@gmail.com
 
