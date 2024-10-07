@@ -1,4 +1,4 @@
-- 🤓 Full Stack Software Engineer.
+- 🤓 Software Engineering Manager
 - 🙌 Looking to collaborate on open source projects.
 - 📫 How to reach me alesx.rdz@gmail.com
 
